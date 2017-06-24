@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+
+  * What has been easy?
+
+  * What has been difficult?
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+A new skill I have learned is how to look at the web/websites as boxes in order to simplify creating mockups. This has helped me understand the term “white boarding” better and I think it is useful to look at designing websites piece by piece or box by box. 
+It has been fairly easy so far, as I am familiar with majority of the HTML syntax we have covered so far. I had difficulty with the figures quiz, I couldn’t come up with the correct code so that was a little challenging. 
+My problem solving strategies have relied heavily on researching the suggested websites and trying to figure out my mistakes. I have gone to the forum to post a question but ended up finding the answer along the way. 
